@@ -34,7 +34,7 @@ const Header = () => {
 
           {/* CV Button (Desktop) */}
           <a
-            href="/cv/oznur-oncel-cv.pdf"
+            href="/cv/oznur-cv.pdf"
             download
             className="
               hidden md:inline-block
