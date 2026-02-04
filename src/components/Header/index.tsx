@@ -78,7 +78,7 @@ const Header = () => {
 
           {/* CV Button (Mobile) */}
    <a
-  href="/cv/oznur-cv.pdf"
+  href="/cv/Oznur_Oncel_CV..zip"
   download="Oznur-CV.pdf"
 >
   Download CV
