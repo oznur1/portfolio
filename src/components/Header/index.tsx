@@ -77,20 +77,14 @@ const Header = () => {
           ))}
 
           {/* CV Button (Mobile) */}
-          <a
-            href="/cv/oznur-cv.pdf"
-            download
-            className="
-              mt-4
-              px-8 py-3
-              rounded-full
-              bg-cyan-500
-              text-white
-              font-medium
-            "
-          >
-            Download CV
-          </a>
+   <a
+  href="/cv/oznur-cv.pdf"
+  download="Oznur-CV.pdf"
+>
+  Download CV
+</a>
+
+
         </nav>
       )}
     </header>
